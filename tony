@@ -1,0 +1,2 @@
+qmk flash -kb handwired/onekey/rp2040 -km default
+qmk compile -kb tmuka1 -km tmuka
