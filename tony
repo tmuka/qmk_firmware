@@ -1,2 +1,4 @@
 qmk flash -kb handwired/onekey/rp2040 -km default
 qmk compile -kb tmuka1 -km tmuka
+
+for i in {14..30}; do echo \"GP$i\"\,; done | xargs
