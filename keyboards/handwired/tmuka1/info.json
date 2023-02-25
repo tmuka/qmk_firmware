@@ -1,6 +1,7 @@
 {
 	"keyboard_name": "tmuka1_rp2040",
 	"maintainer": "tmuka",
+	"manufacturer": "tmuka",
 	"usb": {
 		"vid": "0x4B42",
 		"pid": "0x7002",
