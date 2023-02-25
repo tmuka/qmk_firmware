@@ -1,14 +1,14 @@
 {
 	"keyboard_name": "tmuka1_rp2040",
 	"maintainer": "tmuka",
+	"processor": "RP2040",
+	"bootloader": "rp2040",
 	"manufacturer": "tmuka",
 	"usb": {
 		"vid": "0x4B42",
 		"pid": "0x7002",
 		"device_version": "0.0.1"
 	},
-	"processor": "RP2040",
-	"bootloader": "rp2040",
 	"diode_direction": "COL2ROW",
 	"matrix_pins": {
 		"cols": ["GP14", "GP15", "GP16", "GP17", "GP18", "GP19", "GP20", "GP21", "GP22", "GP23", "GP24", "GP25", "GP26", "GP27", "GP28", "GP29", "GP30"],
