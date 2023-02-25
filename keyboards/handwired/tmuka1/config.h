@@ -3,16 +3,6 @@
 
 #pragma once
 
-#undef VENDOR_ID
-#undef PRODUCT_ID
-#undef DEVICE_VER
-#undef MANUFACTURER
-#undef PRODUCT
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x4096
-#define DEVICE_VER      0x0001
-#define MANUFACTURER    "Nobody"
-#define PRODUCT         "tmuka keyboard"
 #include "config_common.h"
 
 #define DEBUG_MATRIX_SCAN_RATE
