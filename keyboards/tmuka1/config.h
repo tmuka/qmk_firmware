@@ -65,4 +65,3 @@
 
 #define PS2_MOUSE_SCROLL_BTN_MASK (1<<PS2_MOUSE_BTN_MIDDLE) /* Default */
 
-#define PS2_MOUSE_SCROLL_BTN_MASK 0 /* disable scroll button feature */
