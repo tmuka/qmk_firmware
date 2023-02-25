@@ -1,6 +1,7 @@
 {
   "keyboard": "tmuka1",
   "keymap": "tmuka1",
+	"bootloader": "rp2040",
   "layout": "LAYOUT",
   "layers": [
     [
