@@ -1,6 +1,6 @@
 #BOARD = GENERIC_RP_RP2040
-PS2_MOUSE_ENABLE = yes
-PS2_ENABLE = yes
-PS2_DRIVER = usart
+#PS2_MOUSE_ENABLE = yes
+#PS2_ENABLE = yes
+#PS2_DRIVER = usart
 
 MOUSEKEY_ENABLE = yes  # Mouse keys
